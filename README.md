@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robo-mac a data engineer/developer currently based in Chicago Illinois
+- 👋 Hi, I’m @robo-mac [Mc-Niel Chinedu] a data engineer/developer currently based in Chicago Illinois
 - 👀 I’m interested in Data Governance, Robotics Process Automation (AI) and Cyber-Security
 - 🌱 I’m currently working on Personal Projects in Blockchain Technology for AI and Data Governance
 - 💞️ I’m looking to collaborate on RPA automation projects and Data Governance Security projects using AI tools
